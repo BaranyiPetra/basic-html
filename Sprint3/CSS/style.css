@@ -1,0 +1,35 @@
+@font-face { 
+    font-family: "Oswald";
+    src: url(fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    font-weight: 500;
+}
+
+
+
+h1 {
+    color: red;
+    font-family: "Oswald";
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+#bio-header {
+    color: brown;
+}
+
+#skills-header {
+    color:rgba(69, 9, 124, 0.589); 
+    
+}
+
+.content {
+    color: rgba(50, 50, 53, 0.452);
+    font-size: 24px;
+    font-weight: bold;
+} 
+img {
+    width: 275px;
+    height: 183px;
+}
