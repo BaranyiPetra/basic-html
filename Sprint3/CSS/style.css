@@ -25,11 +25,27 @@ h3 {
 }
 
 .content {
-    color: rgba(50, 50, 53, 0.452);
+    color:black;
     font-size: 24px;
     font-weight: bold;
+    max-width: 75%;
+    text-align:justify
 } 
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: rgb(87, 46, 153);
+}
+
 img {
     width: 275px;
     height: 183px;
+}
+
+#img-1 {
+    position: relative;
+    left: 10px;
 }

@@ -1,0 +1,13 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(100,20,200,0.9);
+}
+
+html {
+    background-color: cornflowerblue;
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png);
+    background-position: left center;
+    background-repeat: repeat-x;
+}
